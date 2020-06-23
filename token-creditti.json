@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "auto-atendimento-creditti-iweb",
+  "private_key_id": "961172d3f22d9ae50c6fb68a66eca060f4043610",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZ0rU9V4SeOcwT\nSrIRrT71JI6H0EUK//3erQC2msMfVeEcVXUfgH4Spo6eFkKdf4LDqSqmsTtO8mrJ\n4jbHBO6AsD3lyHGJ2bxct3TvUUit4rziPLgu32I2MFSbwrOjJ1qEsfsElXKL9ghC\n+ym2aHGdVOllFTuOa8c0tVN5upgcdWHzvlwNeIDJl1efBG2BcfpOKVoNPnfxH1Kf\nnhvyIsOlFdM83ix7UGLX7POaAYQuxcb+baT5/zpkf4mvwnigPAGDZgY1m+CldfI7\npSXIyjJoX4SS5A+BLk49bReOMY4Quc85+LCfbf7kvHLrVIY1r2EtQk01gZtazrwd\n3r+Ue7x3AgMBAAECggEABb8CyTYAkhPmT97YSbkXOHtzSEHbSmlnV475OgO2/+/V\nLG9JeZydrl8Cxdy0BAPUOTCTviKxwfsOn9haTn3x1jnUiMW/mV7aXqZLG84wBlre\nznQRN02zSANEgzBh8IQoU/uoEl2Y0qn6rgc0Nt2uR3/OsNl7COYgIhPB+LKj5bAy\np6no6WvVkVXEQImjwMlbbURIUJx6tRM+29LCF7nAmD6keRr9F2j1ryXogFuLoVVU\nxIrk7FNtC22LlS2v0WUu0PpC9AjyuXyC39BGfES5hoBLAEjGD/yDN2/246xAlBQO\n4TeqJDBKQxSZ6lOa26S7lYLUSk/iIe9TXZcS766RIQKBgQDWksZqYaWdMF7C6pgi\nnm3d1Y19gOvuO6Npwf42LFvEIczv3mP53I3544DC4VDd2zAyBHPG7+zaoRUKadUi\nJvMV4tik4ZuGl6ndeG38MpsznhR4tgPl/i0VxrH/t4YAvYuZobM7R5O1DqUZpaGe\nxypawvXUxKFxInkeufCjhEHCIQKBgQC3hV5uJGrT3FqFgrZUxrOSTm24lnyuLhc8\nJZ/53mbiTcX7JliBmNiRjP7C+/36o3GHvpCATlF1ppkdsBIBtnl4W+UsG1ptbFq1\nhPbkPGy/MHC1QURfLiPUK7yTP9VV53YNTqsPnSLdIkiH70D5q5hmDVRRAQWfnd/W\n+zYnfKDblwKBgEBMtYa1gkKLdyoj0Lk3DqdWUlMUqh624m5TwtELE+i/VEFhPEZo\n0GbcxP4hNPF2uIeUi/lGdozBjqOTOVpFn7ykQNWQAeIgWrfSWeskYxvhuDLAIITw\nWSRYaYi+vzpDkqzUJviRp3KvU8xOtRL2jfuqxq4eyl4zvWX2xGTLwkThAoGBALAU\npqXHCzh7E99FqutsOp8F4QBaYwY78s8iyntTiCNZu7tc705o+GGuhkFOxkDU0PkN\nPlfczQu07PQvGxfJnIJ+qUPIetrCO8Yt7TTPRQer0ngWRyOLgZTw4d3mQSpLCll6\nQWaZvfmuCylhxVXH7lD8OQn/kQW01C/QmAUK7svBAoGAQfdnFnaSzx/3AWqL6f9y\n5MUq48xBgPic0EL8wXSQTDWbMehqvs0/u8WMmUf06+vB+yZiXcMpTTIS66OPKrv1\nFkR+32E0Nuy8h151epzxA7SdUdRSRrab3RqK+pC7a+vg//DzLv6+0kOzpm9H/5Hl\nIZ0NPDYU1YANkJDa1aLS3HU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-laltdw@auto-atendimento-creditti-iweb.iam.gserviceaccount.com",
+  "client_id": "118321758466758670645",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-laltdw%40auto-atendimento-creditti-iweb.iam.gserviceaccount.com"
+}
